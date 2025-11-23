@@ -2,6 +2,8 @@
 
 C++ Bitmap Image.
 
+[![Development Note p.176](https://img.youtube.com/vi/-uwX1bEyuro/0.jpg)](https://www.youtube.com/watch?v=-uwX1bEyuro)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
